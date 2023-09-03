@@ -1,5 +1,5 @@
 
-package com.example;
+package com.example.sort;
 
 /**
  Bubble Sort is a simple comparison-based sorting algorithm. It repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. This process is repeated for each item in the list, causing the largest unsorted element to "bubble up" to its correct position.

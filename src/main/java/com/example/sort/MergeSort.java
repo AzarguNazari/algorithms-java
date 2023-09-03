@@ -1,4 +1,4 @@
-package com.example;
+package com.example.sort;
 
 /**
  Merge Sort is a divide-and-conquer algorithm. It works by recursively splitting the array into two halves until each sub-array contains a single element and then merging those sub-arrays in a manner that results in a sorted array.

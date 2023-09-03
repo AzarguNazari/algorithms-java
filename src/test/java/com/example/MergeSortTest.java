@@ -1,5 +1,6 @@
 package com.example;
 
+import com.example.sort.MergeSort;
 import junit.framework.TestCase;
 import org.junit.jupiter.api.Test;
 
